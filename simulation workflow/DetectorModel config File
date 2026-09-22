@@ -1,1 +1,15 @@
+type = "monolithic"
+geometry = "pixel"
+number_of_pixels = 20 20
+pixel_size = 28um 28um
+
+sensor_thickness = 100um
+sensor_excess_top = 50um
+sensor_excess_bottom = 50um
+sensor_excess_left = 50um
+sensor_excess_right = 50um
+
+chip_thickness = 3um
+
+
 
